@@ -11,8 +11,8 @@ license = {file = "LICENSE.txt"}
 
 requires-python = "~=3.9"
 dependencies = [
-    "amaranth[builtin-yosys]<0.6,>=0.5",
-    "amaranth_soc @ git+https://github.com/amaranth-lang/amaranth-soc",
+    "amaranth[builtin-yosys]<0.7,>=0.5",
+    "amaranth_soc @ git+https://github.com/ChipFlow/amaranth-soc",
     "yowasp-yosys",
 ]
 
